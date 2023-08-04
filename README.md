@@ -62,5 +62,6 @@ yay -S font-manager
 install webcord it just discord but can shar srceen
 ```
 git clone https://aur.archlinux.org/webcord.git
+cd webcord
 makepkg -si
 ```
