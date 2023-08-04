@@ -34,7 +34,7 @@ Or you can use the attached script "set-hypr" to install everything for you.
 -
 
 <details>
-  <summary><strong> After Done </strong></summary>
+  <summary><strong> After Done  Install optional packages? </strong></summary>
 
 Any Nerd Fonts installed and used by your terminal emulator to display icon (Highly Recommended: JetBrains Mono, since most of the config using this font)
 
