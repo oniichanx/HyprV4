@@ -107,3 +107,7 @@ step 5
 ```
 sudo grub-mkconfig -o /efi/grub/grub.cfg
 ```
+  </details>
+</details>
+
+hfgh
