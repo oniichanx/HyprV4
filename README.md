@@ -41,7 +41,6 @@ Any Nerd Fonts installed and used by your terminal emulator to display icon (Hig
 You can use my script to download any Nerd Fonts (requires [fzf](https://github.com/junegunn/fzf))
 ```
 sudo pacman -S fzf wget
-
 ```
 ```
 bash -c "$(curl -Ls https://raw.githubusercontent.com/lime-desu/bin/main/nf-dl)"
