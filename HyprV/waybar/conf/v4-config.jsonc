@@ -48,7 +48,7 @@
     "hyprland/language": {
         "interval": 30,
         "format": " {}",
-        "keyboard-name": "logitech-pro-gaming-keyboard",
+        "keyboard-name": "rk-keyboard-5.1",
         "on-click": "~/.config/HyprV/hyprv_util swkb",
         "signal": 8
     },
