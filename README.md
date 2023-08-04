@@ -33,6 +33,18 @@ noto-fonts-emoji lxappearance xfce4-settings sddm-git sddm-sugar-candy-git
 Or you can use the attached script "set-hypr" to install everything for you.
 -
 
+<details>
+  <summary><strong> Prerequisites </strong></summary>
+
+Any Nerd Fonts installed and used by your terminal emulator to display icon (Highly Recommended: JetBrains Mono, since most of the config using this font)
+
+You can use my script to download any Nerd Fonts
+(requires [fzf](https://github.com/junegunn/fzf))
+```
+bash -c "$(curl -Ls https://raw.githubusercontent.com/lime-desu/bin/main/nf-dl)"
+```
+<details>
+  <summary>Setup Script Dependencies </summary>
 install all font after done
 ```
 pacman -S ttf-dejavu ttf-liberation ttf-droid ttf-ubuntu-font-family noto-fonts noto-fonts-cjk ttf-font-awesome
