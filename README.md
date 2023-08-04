@@ -81,7 +81,7 @@ xdg-settings set default-web-browser librewolf.desktop
 </details>
 
 <details>
-  <summary><strong> How to dual boot windows with archlinux </strong></summary>
+  <summary><strong> How to dual boot windows with archlinux? </strong></summary>
 
 step 1
 ```
@@ -111,7 +111,7 @@ sudo grub-mkconfig -o /efi/grub/grub.cfg
 </details>
 
 <details>
-  <summary><strong> How to make firefox glowie </strong></summary>
+  <summary><strong> How to make firefox glowie? </strong></summary>
 
 (requires [hnhx config](https://github.com/hnhx/user.js) or [My config](https://github.com/oniichanx/user.js))
 
@@ -119,7 +119,7 @@ sudo grub-mkconfig -o /efi/grub/grub.cfg
 </details>
 
 <details>
-  <summary><strong> How to make hyprland gaming </strong></summary>
+  <summary><strong> How to make hyprland gaming? </strong></summary>
 
 Install steam
 ```
