@@ -35,9 +35,7 @@ Or you can use the attached script "set-hypr" to install everything for you.
 
 install all font
 ```
-pacman -S ttf-dejavu ttf-liberation ttf-droid ttf-ubuntu-font-family noto-fonts noto-fonts-cjk
+pacman -S ttf-dejavu ttf-liberation ttf-droid ttf-ubuntu-font-family noto-fonts noto-fonts-cjk ttf-font-awesome
 
 yay -S ttf-gelasio-ib ttf-caladea ttf-carlito ttf-liberation-sans-narrow ttf-ms-fonts
-
-pacman -S ttf-font-awesome
 ```
