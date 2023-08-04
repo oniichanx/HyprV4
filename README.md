@@ -8,7 +8,7 @@ You can grab the config files and install packages by hand with the command list
 
 Do this ONLY if you need Nvidia support (do this first)
 ```
-yay -S linux-headers nvidia-dkms qt5-wayland qt5ct libva libva-nvidia-driver-git
+yay -S linux-headers linux-zen linux-zen-headers nvidia-dkms qt5-wayland qt5ct libva libva-nvidia-driver-git
 
 Add modules: nvidia nvidia_modeset nvidia_uvm nvidia_drm to /etc/mkinitcpio.conf
 
