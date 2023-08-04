@@ -110,4 +110,7 @@ sudo grub-mkconfig -o /efi/grub/grub.cfg
   </details>
 </details>
 
-hfgh
+<details>
+  <summary><strong> How to make firefox glowie </strong></summary>
+
+(requires [neofetch config](https://github.com/oniichanx/neofetch))
