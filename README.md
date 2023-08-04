@@ -81,4 +81,4 @@ xdg-settings set default-web-browser librewolf.desktop
 </details>
 
 </details>
-<summary><strong> how to dual boot windows with arch linux </strong></summary>
+  <summary><strong> how to dual boot windows with arch linux </strong></summary>
