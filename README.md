@@ -1,4 +1,4 @@
-# HyprV4
+# HyprV4 Version 0.27.2-1
 This is V4 of the Hyprland install script
 
 It contains a collection of dot config files for hyprland with a simple install script.
