@@ -43,7 +43,6 @@ You can use my script to download any Nerd Fonts
 ```
 bash -c "$(curl -Ls https://raw.githubusercontent.com/lime-desu/bin/main/nf-dl)"
 ```
-<details>
   
 install all font after done
 ```
