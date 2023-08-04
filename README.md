@@ -69,3 +69,8 @@ install AppImageLauncher for just use appimage
 ```
 yay -S AppImageLauncher
 ```
+install imagemagick for custom neofetch
+```
+sudo pacman -S imagemagick
+```
+
