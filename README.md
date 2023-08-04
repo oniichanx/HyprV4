@@ -44,7 +44,7 @@ You can use my script to download any Nerd Fonts
 bash -c "$(curl -Ls https://raw.githubusercontent.com/lime-desu/bin/main/nf-dl)"
 ```
 <details>
-  <summary>Setup Script Dependencies </summary>
+  
 install all font after done
 ```
 pacman -S ttf-dejavu ttf-liberation ttf-droid ttf-ubuntu-font-family noto-fonts noto-fonts-cjk ttf-font-awesome
