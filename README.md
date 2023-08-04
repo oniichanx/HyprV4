@@ -73,4 +73,7 @@ install imagemagick for custom neofetch with image like .png|.jpg|.gif (requires
 ```
 sudo pacman -S imagemagick
 ```
-
+set default-web-browser to librewolf
+```
+xdg-settings set default-web-browser librewolf.desktop
+```
