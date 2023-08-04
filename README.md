@@ -40,7 +40,7 @@ Any Nerd Fonts installed and used by your terminal emulator to display icon (Hig
 
 You can use my script to download any Nerd Fonts
 ```
-sudo pacman -S fzf sudo pacman -S wget
+sudo pacman -S fzf wget
 ```
 (requires [fzf](https://github.com/junegunn/fzf))
 ```
