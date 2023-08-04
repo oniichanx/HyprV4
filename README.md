@@ -77,3 +77,6 @@ set default-web-browser to librewolf
 ```
 xdg-settings set default-web-browser librewolf.desktop
 ```
+<details>
+
+gg
