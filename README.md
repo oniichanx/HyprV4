@@ -125,7 +125,7 @@ Install steam
 ```
 sudo pacman -S steam
 ```
-Install wine
+Install wine & lutris
 ```
 sudo pacman -S --needed --noconfirm lutris wine-staging wine-mono
 ```
