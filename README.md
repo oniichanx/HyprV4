@@ -83,4 +83,6 @@ xdg-settings set default-web-browser librewolf.desktop
 <details>
   <summary><strong> How to dual boot windows with archlinux </strong></summary>
 
-Any Nerd Fonts installed and used by your terminal emulator to display icon (Highly Recommended: JetBrains Mono, since most of the config using this
+```
+sudo pacman -S os-prober
+```
