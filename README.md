@@ -65,3 +65,7 @@ git clone https://aur.archlinux.org/webcord.git
 cd webcord
 makepkg -si
 ```
+install AppImageLauncher for just use appimage
+```
+yay -S AppImageLauncher
+```
