@@ -31,7 +31,7 @@ noto-fonts-emoji lxappearance xfce4-settings sddm-git sddm-sugar-candy-git
 ```
 
 Or you can use the attached script "set-hypr" to install everything for you.
---------------------------------------------------------------------------------
+-
 
 install all font
 ```
