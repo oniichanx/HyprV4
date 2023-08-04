@@ -80,8 +80,7 @@ xdg-settings set default-web-browser librewolf.desktop
   </details>
 </details>
 
-</details>
-  <summary><strong> how to dual boot windows with arch linux </strong></summary>
-```
-install AppImageLauncher for just use appimage
-```
+<details>
+  <summary><strong> After Done </strong></summary>
+
+Any Nerd Fonts installed and used by your terminal emulator to display icon (Highly Recommended: JetBrains Mono, since most of the config using this
