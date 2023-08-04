@@ -55,6 +55,7 @@ install_stage=(
     thunar 
     btop
     firefox
+    librewolf-bin
     thunderbird
     mpv
     pamixer 
