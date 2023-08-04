@@ -113,4 +113,4 @@ sudo grub-mkconfig -o /efi/grub/grub.cfg
 <details>
   <summary><strong> How to make firefox glowie </strong></summary>
 
-(requires [hnhx config](https://github.com/hnhx/user.js)&[My config](https://archlinux.org/packages/extra/x86_64/wget))
+(requires [hnhx config](https://github.com/hnhx/user.js) or [My config](https://archlinux.org/packages/extra/x86_64/wget))
