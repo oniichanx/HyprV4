@@ -22,7 +22,7 @@
 
     "custom/launch_firefox": {
         "format": "",
-        "on-click": "firefox",
+        "on-click": "librewolf",
         "tooltip": false
     },
 
