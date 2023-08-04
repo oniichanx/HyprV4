@@ -99,6 +99,10 @@ step 4
 ```
 sudo grub-install --target=x86_64-efi --efi-directory=/efi --boot-directory=/efi --bootloader-id=GRUB
 ```
+or
+```
+sudo grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB --boot-directory=/mnt/boot
+```
 step 5
 ```
 sudo grub-mkconfig -o /efi/grub/grub.cfg
