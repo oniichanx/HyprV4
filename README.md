@@ -82,3 +82,6 @@ xdg-settings set default-web-browser librewolf.desktop
 
 </details>
   <summary><strong> how to dual boot windows with arch linux </strong></summary>
+```
+install AppImageLauncher for just use appimage
+```
