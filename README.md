@@ -38,11 +38,11 @@ Or you can use the attached script "set-hypr" to install everything for you.
 
 Any Nerd Fonts installed and used by your terminal emulator to display icon (Highly Recommended: JetBrains Mono, since most of the config using this font)
 
-You can use my script to download any Nerd Fonts
+You can use my script to download any Nerd Fonts (requires [fzf](https://github.com/junegunn/fzf))
 ```
 sudo pacman -S fzf wget
+
 ```
-(requires [fzf](https://github.com/junegunn/fzf))
 ```
 bash -c "$(curl -Ls https://raw.githubusercontent.com/lime-desu/bin/main/nf-dl)"
 ```
