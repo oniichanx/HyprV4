@@ -129,5 +129,9 @@ Install wine & lutris
 ```
 sudo pacman -S --needed --noconfirm lutris wine-staging wine-mono
 ```
+if you want play minecraft
+```
+sudo pacman -S --needed --noconfirm cava vscodium-bin prismlauncher-qt5-bin
+```
   </details>
 </details>
