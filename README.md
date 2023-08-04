@@ -42,7 +42,7 @@ You can use lime-desu script to download any Nerd Fonts (requires [fzf](https://
 ```
 sudo pacman -S fzf wget
 ```
-Script to download Fonts
+^^^^^^^^^^^^^^^^^^
 ```
 bash -c "$(curl -Ls https://raw.githubusercontent.com/lime-desu/bin/main/nf-dl)"
 ```
