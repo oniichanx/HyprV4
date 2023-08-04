@@ -114,3 +114,20 @@ sudo grub-mkconfig -o /efi/grub/grub.cfg
   <summary><strong> How to make firefox glowie </strong></summary>
 
 (requires [hnhx config](https://github.com/hnhx/user.js) or [My config](https://github.com/oniichanx/user.js))
+
+  </details>
+</details>
+
+<details>
+  <summary><strong> How to make hyprland gaming </strong></summary>
+
+Install steam
+```
+sudo pacman -S steam
+```
+Install wine
+```
+sudo pacman -S --needed --noconfirm lutris wine-staging wine-mono
+```
+  </details>
+</details>
