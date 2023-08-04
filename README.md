@@ -59,7 +59,7 @@ install obs-studio & font-manager
 pacman -S obs-studio
 yay -S font-manager
 ```
-install webcord it just discord but can shar srceen
+install webcord it just discord but can sharing srceen
 ```
 git clone https://aur.archlinux.org/webcord.git
 cd webcord
