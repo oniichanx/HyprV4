@@ -134,5 +134,11 @@ if you want play minecraft
 ```
 sudo pacman -S --needed --noconfirm cava vscodium-bin prismlauncher-qt5-bin
 ```
+if you want play game on windows
+```
+https://github.com/RusNor/StartWine-Launcher/releases
+chmod +x StartWine_v*
+./StartWine_v37*
+```
   </details>
 </details>
