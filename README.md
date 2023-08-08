@@ -137,8 +137,14 @@ sudo pacman -S --needed --noconfirm cava vscodium-bin prismlauncher-qt5-bin
 if you want play game on windows (requires [StartWine](https://github.com/RusNor/StartWine-Launcher))
 ```
 curl -sLo /dev/null -w '%{url_effective}' https://github.com/RusNor/StartWine-Launcher/releases/latest
+copy output link
+wget https://github.com/RusNor/StartWine-Launcher/releases/tag/StartWine_v***
 chmod +x StartWine_v*
 ./StartWine_v37*
+```
+or
+```
+sudo pacman -S --needed --noconfirm startwine
 ```
   </details>
 </details>
