@@ -121,7 +121,6 @@ done
 
 <details>
   <summary><strong> How to make hyprland gaming? </strong></summary>
-
   
 Install steam
 ```
