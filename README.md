@@ -145,6 +145,7 @@ wget https://github.com/RusNor/StartWine-Launcher/releases/tag/StartWine_v***
 chmod +x StartWine_v*
 ./StartWine_v37*
 ```
+Or
 ```
 yay -S --needed --noconfirm startwine
 ```
