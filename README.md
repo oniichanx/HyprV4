@@ -144,7 +144,7 @@ chmod +x StartWine_v*
 
 or using aur
 
-sudo pacman -S --needed --noconfirm startwine
+yay -S --needed --noconfirm startwine
 ```
   </details>
 </details>
