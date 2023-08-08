@@ -121,7 +121,7 @@ done
 
 <details>
   <summary><strong> How to make hyprland gaming? </strong></summary>
-
+---
 Install steam
 ```
 sudo pacman -S steam
@@ -145,7 +145,7 @@ wget https://github.com/RusNor/StartWine-Launcher/releases/tag/StartWine_v***
 chmod +x StartWine_v*
 ./StartWine_v37*
 ```
-Or Aur
+or Aur
 ```
 yay -S --needed --noconfirm startwine
 ```
