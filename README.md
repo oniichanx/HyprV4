@@ -141,9 +141,8 @@ copy output link
 wget https://github.com/RusNor/StartWine-Launcher/releases/tag/StartWine_v***
 chmod +x StartWine_v*
 ./StartWine_v37*
-
-or using aur
 ```
+---
 ```
 yay -S --needed --noconfirm startwine
 ```
