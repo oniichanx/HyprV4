@@ -53,7 +53,7 @@ pacman -S ttf-dejavu ttf-liberation ttf-droid ttf-ubuntu-font-family noto-fonts 
 
 yay -S ttf-gelasio-ib ttf-caladea ttf-carlito ttf-liberation-sans-narrow ttf-ms-fonts
 ```
-
+---
 - #### install obs-studio & font-manager
 ```
 pacman -S obs-studio
