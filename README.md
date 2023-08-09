@@ -87,19 +87,19 @@ xdg-settings set default-web-browser librewolf.desktop
 <details>
   <summary><strong> How to dual boot windows with archlinux? </strong></summary>
 
-step 1
+- step 1
 ```
 sudo pacman -S os-prober
 ```
-step 2
+- step 2
 ```
 sudo mkinitcpio -P
 ```
-step 3 remove # on GRUB_DISABLE_OS_PEROBER=false
+- step 3 remove # on GRUB_DISABLE_OS_PEROBER=false
 ```
 sudo nano /etc/default/grub
 ```
-step 4
+- step 4
 ```
 sudo grub-install --target=x86_64-efi --efi-directory=/efi --boot-directory=/efi --bootloader-id=GRUB
 ```
@@ -107,7 +107,7 @@ or
 ```
 sudo grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB --boot-directory=/mnt/boot
 ```
-step 5
+- step 5
 ```
 sudo grub-mkconfig -o /efi/grub/grub.cfg
 ```
