@@ -36,8 +36,8 @@ Or you can use the attached script "set-hypr" to install everything for you.
 <details>
   <summary><strong> After Done  Install optional packages? </strong></summary>
 
-Any Nerd Fonts installed and used by your terminal emulator to display icon (Highly Recommended: JetBrains Mono, since most of the config using this font)
----
+- ### Any Nerd Fonts installed and used by your terminal emulator to display icon (Highly Recommended: JetBrains Mono, since most of the config using this font)
+
 You can use lime-desu script to download any Nerd Fonts (requires [fzf](https://github.com/junegunn/fzf)&[wget](https://archlinux.org/packages/extra/x86_64/wget))
 ```
 sudo pacman -S fzf wget
