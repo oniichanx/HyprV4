@@ -104,7 +104,7 @@ sudo nano /etc/default/grub
 ```
 sudo grub-install --target=x86_64-efi --efi-directory=/efi --boot-directory=/efi --bootloader-id=GRUB
 ```
-or
+- or
 ```
 sudo grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB --boot-directory=/mnt/boot
 ```
