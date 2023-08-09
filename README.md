@@ -150,10 +150,11 @@ or Aur
 yay -S --needed --noconfirm startwine
 ```
 ---
+if you want change wallpaper quick (requires [Waypaper](https://github.com/anufrievroman/waypaper))
 ```
-yay -S --needed --noconfirm startwine
+sudo pacman -S --needed --noconfirm python-pip python-pipx swaybg
+```pip install waypaper``` or in case of troubles ```pipx install waypaper```
 ```
-
 
   </details>
 </details>
