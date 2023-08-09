@@ -168,6 +168,7 @@ reboot
 ```
 `waypaper` will run GUI application.
 
+
 if you want change wallpaper quick (requires [Waypaper](https://github.com/anufrievroman/waypaper))
 ```
 sudo pacman -S --needed --noconfirm python-pip python-pipx swaybg
