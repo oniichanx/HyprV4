@@ -54,26 +54,26 @@ pacman -S ttf-dejavu ttf-liberation ttf-droid ttf-ubuntu-font-family noto-fonts 
 yay -S ttf-gelasio-ib ttf-caladea ttf-carlito ttf-liberation-sans-narrow ttf-ms-fonts
 ```
 
-- install obs-studio & font-manager
+- #### install obs-studio & font-manager
 ```
 pacman -S obs-studio
 yay -S font-manager
 ```
-- install webcord it just discord but can sharing srceen on wayland&hyprland
+- #### install webcord it just discord but can sharing srceen on wayland&hyprland
 ```
 git clone https://aur.archlinux.org/webcord.git
 cd webcord
 makepkg -si
 ```
-- install AppImageLauncher for just use appimage
+- #### install AppImageLauncher for just use appimage
 ```
 yay -S AppImageLauncher
 ```
-- install imagemagick for custom neofetch with image like .png|.jpg|.gif (requires [neofetch config](https://github.com/oniichanx/neofetch))
+- #### install imagemagick for custom neofetch with image like .png|.jpg|.gif (requires [neofetch config](https://github.com/oniichanx/neofetch))
 ```
 sudo pacman -S imagemagick
 ```
-- set default-web-browser to librewolf
+- #### set default-web-browser to librewolf
 ```
 xdg-settings set default-web-browser librewolf.desktop
 ```
@@ -122,22 +122,22 @@ done
 <details>
   <summary><strong> How to make hyprland gaming? </strong></summary>
   
-Install steam
+- #### Install steam
 ```
 sudo pacman -S steam
 ```
 ---
-Install wine & lutris
+- #### Install wine & lutris
 ```
 sudo pacman -S --needed --noconfirm lutris wine-staging wine-mono
 ```
 ---
-if you want play minecraft
+- #### if you want play minecraft
 ```
 sudo pacman -S --needed --noconfirm cava vscodium-bin prismlauncher-qt5-bin
 ```
 ---
-if you want play game on windows (requires [StartWine](https://github.com/RusNor/StartWine-Launcher))
+- #### if you want play game on windows (requires [StartWine](https://github.com/RusNor/StartWine-Launcher))
 ```
 curl -sLo /dev/null -w '%{url_effective}' https://github.com/RusNor/StartWine-Launcher/releases/latest
 copy output link
@@ -150,7 +150,7 @@ or Aur
 yay -S --needed --noconfirm startwine
 ```
 ---
-if you want change wallpaper quick (requires [Waypaper](https://github.com/anufrievroman/waypaper))
+- #### if you want change wallpaper quick (requires [Waypaper](https://github.com/anufrievroman/waypaper))
 ```
 sudo pacman -S --needed --noconfirm python-pip python-pipx swaybg
 ```
@@ -168,7 +168,7 @@ reboot
 `waypaper` will run GUI application.
 
 ---
-- if you want change wallpaper quick (requires [Waypaper](https://github.com/anufrievroman/waypaper))
+- #### if you want change wallpaper quick (requires [Waypaper](https://github.com/anufrievroman/waypaper))
 ```
 sudo pacman -S --needed --noconfirm python-pip python-pipx swaybg
 ```
