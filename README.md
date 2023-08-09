@@ -169,6 +169,7 @@ reboot
 `waypaper` will run GUI application.
 ---
 
+f
   </details>
 </details>
 
