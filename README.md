@@ -46,7 +46,7 @@ run this next when fzf & wget install done
 ```
 bash -c "$(curl -Ls https://raw.githubusercontent.com/lime-desu/bin/main/nf-dl)"
 ```
-  
+---
 - #### install all font manual
 ```
 pacman -S ttf-dejavu ttf-liberation ttf-droid ttf-ubuntu-font-family noto-fonts noto-fonts-cjk ttf-font-awesome
@@ -59,20 +59,24 @@ yay -S ttf-gelasio-ib ttf-caladea ttf-carlito ttf-liberation-sans-narrow ttf-ms-
 pacman -S obs-studio
 yay -S font-manager
 ```
+---
 - #### install webcord it just discord but can sharing srceen on wayland&hyprland
 ```
 git clone https://aur.archlinux.org/webcord.git
 cd webcord
 makepkg -si
 ```
+---
 - #### install AppImageLauncher for just use appimage
 ```
 yay -S AppImageLauncher
 ```
+---
 - #### install imagemagick for custom neofetch with image like .png|.jpg|.gif (requires [neofetch config](https://github.com/oniichanx/neofetch))
 ```
 sudo pacman -S imagemagick
 ```
+---
 - #### set default-web-browser to librewolf
 ```
 xdg-settings set default-web-browser librewolf.desktop
