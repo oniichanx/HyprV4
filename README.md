@@ -165,7 +165,6 @@ Add this line in your hyprland.conf
 exec-once=waypaper --restore
 ```
 reboot
-```
 `waypaper` will run GUI application.
 
 - if you want change wallpaper quick (requires [Waypaper](https://github.com/anufrievroman/waypaper))
