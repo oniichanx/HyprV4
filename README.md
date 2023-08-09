@@ -86,7 +86,7 @@ xdg-settings set default-web-browser librewolf.desktop
 
 <details>
   <summary><strong> How to dual boot windows with archlinux? </strong></summary>
-
+---
 - Step 1
 ```
 sudo pacman -S os-prober
