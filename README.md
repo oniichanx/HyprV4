@@ -154,14 +154,18 @@ if you want change wallpaper quick (requires [Waypaper](https://github.com/anufr
 ```
 sudo pacman -S --needed --noconfirm python-pip python-pipx swaybg
 ```
----
 ```
 pip install waypaper
 ```
-or in case of troubles
 ```
 pipx install waypaper
 ```
+Add this line in your hyprland.conf
+```
+exec-once=waypaper --restore
+```
+reboot
+`waypaper` will run GUI application.
 
   </details>
 </details>
