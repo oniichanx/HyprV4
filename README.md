@@ -150,5 +150,14 @@ or Aur
 yay -S --needed --noconfirm startwine
 ```
 ---
+```
+if you want play game on windows (requires [StartWine](https://github.com/RusNor/StartWine-Launcher))
+```
+curl -sLo /dev/null -w '%{url_effective}' https://github.com/RusNor/StartWine-Launcher/releases/latest
+copy output link
+wget https://github.com/RusNor/StartWine-Launcher/releases/tag/StartWine_v***
+chmod +x StartWine_v*
+./StartWine_v37*
+```
   </details>
 </details>
