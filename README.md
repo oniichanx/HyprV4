@@ -113,6 +113,8 @@ sudo grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB
 sudo grub-mkconfig -o /efi/grub/grub.cfg
 ```
 done
+
+---
   </details>
 </details>
 
