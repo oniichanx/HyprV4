@@ -165,8 +165,9 @@ Add this line in your hyprland.conf
 exec-once=waypaper --restore
 ```
 reboot
-
+```
 `waypaper` will run GUI application.
+---
 
   </details>
 </details>
